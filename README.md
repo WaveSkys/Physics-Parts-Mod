@@ -18,7 +18,7 @@ This mod adds physics parts like a Hinge and Piston
 # If your using the Hinge
 
 4) Next place an arm structure, like a truss or something, on the hinge.
-# (Make sure the arm is not connected to your non-moving structure)
+(Make sure the arm is not connected to your non-moving structure)
 5) Then adjust your touque for the weight you are trying to lift
 
 
