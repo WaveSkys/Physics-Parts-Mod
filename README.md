@@ -1,7 +1,9 @@
-# Physics-Parts-Mod
+# Physics-Parts-Mod (Alpha v0.1)
 
-This mod adds physics parts like a hinge and piston
+This mod is in Apha. Please expect bugs!
 
+
+This mod adds physics parts like a Hinge and Piston
 
 # Mobile Compatible!
 
