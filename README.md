@@ -1,6 +1,6 @@
 # Physics-Parts-Mod (Alpha v0.1)
 
-( I would post the mod on the Spaceflight Simulator Forums but they have yet to verify my email so I'm posting it here)
+( I would post the mod on the Spaceflight Simulator Forums but they have yet to verify my email so I'm posting it here )
 This mod is in Apha. Please expect bugs!
 
 
