@@ -21,6 +21,9 @@ This mod adds physics parts like a Hinge and Piston
 (Make sure the arm is not connected to your non-moving structure)
 5) Then adjust your touque for the weight you are trying to lift
 
+6) Make sure to turn them on Ingame!
+7) Have Fun!
+
 
 <img width="394" height="268" alt="Screenshot 2026-06-04 221457" src="https://github.com/user-attachments/assets/1cdf9f12-db7a-48c6-a0d0-6b0457f7af27" />
 
