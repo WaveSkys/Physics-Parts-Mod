@@ -1,12 +1,21 @@
 # Physics-Parts-Mod (Alpha v0.1)
 
-( I would post the mod on the Spaceflight Simulator Forums but they have yet to verify my email so I'm posting it here )
 This mod is in Apha. Please expect bugs!
 
+# Mobile Compatible!
+
+( I would post the mod on the Spaceflight Simulator Forums but they have yet to verify my email so I'm posting it here )
 
 This mod adds physics parts like a Hinge and Piston
 
-# Mobile Compatible!
+
+# How to Use:
+
+1) All parts are located in the "Other" section.
+2) Place the White Hinge Socket on the non-moving structure.
+3) Then get either a Hinge or a Piston and place their circle inside the white Hinge Socket's black circle so they beconing overlapping.
+4) Next place an arm structure like a truss on the hinge
+
 
 <img width="394" height="268" alt="Screenshot 2026-06-04 221457" src="https://github.com/user-attachments/assets/1cdf9f12-db7a-48c6-a0d0-6b0457f7af27" />
 
